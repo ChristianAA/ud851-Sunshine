@@ -27,8 +27,10 @@
     <!--Used in overflow menu to refresh weather data-->
     <string name="action_refresh">Refresh</string>
 
-    <!--TODO (1) Add a string resource for your error message-->
+    <!--COMPLETED (1) Add a string resource for your error message-->
 
+    <!--Used in overflow menu to refresh weather data-->
+    <string name="error">Failed to download resources, please try again</string>
 
     <!-- - - - - - - - - - - - - -->
     <!--Used by SunshineDateUtils-->
